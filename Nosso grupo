@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+<body>
+<head>
+    <meta charset="utf-8">
+    <title> Nosso Grupo </title>
+    <link rel="stylesheet" href="style.css">
+  <h1> Super grupo de estudos!!!<h/>
+    <h2> Reunioes as sextas...<h2/> <ul>
+      
+      <h1> Super Grupo de Estudos!!!</h1>
+<h2> Reuniões às sextas...</h2><ul>
+	<li> Miderson</li>
+	<li> Elvis</li>
+	<li> Emilia</li>
+	<li> Dyanana</li>
+	<li> Wesley</li>
+	<li> Jackson</li>
+	<li> Thaiz </li>
+	<li> João Faustino</li>
+	<li> Elaine</li></ul>
+      <img id="imagem um" src="">
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/KckYdfcT/Morango-frutoeflor.jpg' border='0' alt='Morango-frutoeflor'/></a>
+</body>
+</html>
+    
+  </head>
